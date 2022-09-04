@@ -7,3 +7,5 @@
 4. Give a brief description for each recipe
 5. List the Ingredients
 6. List the steps followed to be prepare the recipe
+
+[Link to the site](https://pambahderick.github.io/odin-recipes/index.html)
